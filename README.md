@@ -2,15 +2,13 @@
 I love web development and interesting applications of artificial intelligence and data science. Based in Ashburn, Virginia.
 Check [my website](https://www.akhilesh.dev) out
 
+[![Linkedin: akhilesh-s](https://img.shields.io/badge/-Akhilesh%20Sivaganesan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilesh-s/)](https://www.linkedin.com/in/akhilesh-s/)
+
 ### CS Student @ [Georgia Tech](https://www.gatech.edu/) 
 Coursework: Data Structures & Algorithms, Object-Oriented Programming, Linear Algebra, Combinatorics, Calculus 1-3
 
 ### Data Scientist Intern from [Mentra](https://www.mentra.me/)
-• Recommended jobs to neurodiverse candidates, comparing resume skill profile to job skill profile.
-
-• Used Python, GraphQL API calls, Pandas, and NLP (vectorization, cosine similarity, BERT, LDA algorithm, verb extraction).
-
-[![Linkedin: akhilesh-s](https://img.shields.io/badge/-Akhilesh%20Sivaganesan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilesh-s/)](https://www.linkedin.com/in/akhilesh-s/)
+Worked on job matching algorithm on neurodiverse hiring platform. Used Python, GraphQL API calls, Pandas, and NLP.
 
 # Technical Skillset
 
@@ -20,18 +18,16 @@ Coursework: Data Structures & Algorithms, Object-Oriented Programming, Linear Al
 • Pandas + NumPy (Data Science)
 
 ### Java
-Object Oriented Programming
-Project Management
+• Object Oriented Programming
+• Project Management
 
 ### JavaScript
-Vue.js
-React.js
-Node.js 
+• Vue.js, React.js, Node.js (front-end web development frameworks)
 
 ### Cloud & Terminal
-AWS Solutions Architect -- Associate
-Google Firebase
-Bash, CMD
+• AWS Certified Solutions Architect -- Associate (2022)
+• Google Firebase
+• Bash, CMD
 
 # Projects
 
