@@ -1,7 +1,6 @@
-# Hello
-### I am Akhilesh Sivaganesan
+# Hello, I am Akhilesh
 
-*CS 3rd Year Student at [Georgia Tech](https://www.gatech.edu/)*
+### CS Student @ [Georgia Tech](https://www.gatech.edu/) 
 
 *Data Scientist Intern from [Mentra](https://www.mentra.me/)*
 
