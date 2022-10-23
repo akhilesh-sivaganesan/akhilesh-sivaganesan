@@ -32,6 +32,8 @@ Cloud & Terminal:
 # Projects
 My projects focus on web development and data science.
 <!--Web Development Projects-->
+
+## Web Development
 ### Voltaic Industries [DEMO](https://voltaic-industries.webflow.io/design-brief/home)
 • Built website for mock company selling electric vehicles like Tesla with Webflow and JavaScript
 • Generated webpages dynamically populated by database entries for each vehicle
@@ -45,6 +47,7 @@ My projects focus on web development and data science.
 ### Mogi Quote Dispenser [DEMO](https://akhilesh-sivaganesan.github.io/)
 Follow the Mogi way to enlightenment. Mogi Quotes are essential bits of wisdom in this modern era. Simple JS project to dispense inspiration. To many, the origins of Mogi still remain a mystery.
 
+## Data Science
 ### Resume Skill Extractor [View Repo](https://github.com/akhilesh-sivaganesan/Resume-Skills-Extraction)
 Recommended jobs to neurodiverse candidates, comparing resume skill profile to job skill profile. Matched 2000 resumes to job descriptions pulled from data dictionary with GraphQL API calls in Python.
 
