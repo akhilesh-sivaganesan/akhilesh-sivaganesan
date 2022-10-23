@@ -17,9 +17,9 @@ Coursework: Data Structures & Algorithms, Object-Oriented Programming, Linear Al
 # Technical Skillset
 
 ### Python
-TensorFlow + ScikitLearn --> Machine Learning
-OpenCV + Matplotlib --> Computer Vision
-Pandas + NumPy --> Data Science
+• TensorFlow + Scikit-learn (Machine Learning)
+• OpenCV + Matplotlib (Computer Vision)
+• Pandas + NumPy (Data Science)
 
 ### Java
 Object Oriented Programming
