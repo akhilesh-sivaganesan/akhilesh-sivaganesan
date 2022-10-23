@@ -2,6 +2,7 @@
 ### I am Akhilesh Sivaganesan
 
 *CS 3rd Year Student at [Georgia Tech](https://www.gatech.edu/)*
+
 *Data Scientist Intern from [Mentra](https://www.mentra.me/)*
 
 [![Linkedin: akhilesh-s](https://img.shields.io/badge/-Akhilesh%20Sivaganesan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilesh-s/)](https://www.linkedin.com/in/akhilesh-s/)
