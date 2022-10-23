@@ -1,5 +1,6 @@
 # Hello, I am Akhilesh
 I love web development and interesting applications of artificial intelligence and data science. Based in Ashburn, Virginia.
+Check [my website](https://www.akhilesh.dev) out
 
 ### CS Student @ [Georgia Tech](https://www.gatech.edu/) 
 Coursework: Data Structures & Algorithms, Object-Oriented Programming, Linear Algebra, Combinatorics, Calculus 1-3
@@ -14,10 +15,8 @@ Coursework: Data Structures & Algorithms, Object-Oriented Programming, Linear Al
 # Technical Skillset
 
 ### Python
-• TensorFlow + Scikit-learn (Machine Learning)
-
+• TensorFlow, Scikit-learn (Machine Learning)
 • OpenCV + Matplotlib (Computer Vision)
-
 • Pandas + NumPy (Data Science)
 
 ### Java
