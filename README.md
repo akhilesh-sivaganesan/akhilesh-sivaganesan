@@ -34,13 +34,31 @@ Cloud & Terminal:
 ### Web Development
 <!--Web Development Projects-->
 #### Voltaic Industries
+• Built website for mock company selling electric vehicles like Tesla with Webflow and JavaScript
+• Generated webpages dynamically populated by database entries for each vehicle
+• Applied responsive web design to create futuristic, animated site for smartphones and tablets
+• Invented futuristic brand identity with sleek typography and stylized logo in AutoCAD and Blender
+• Integrated common visual design cues to lead users to key actions and ease user experience
 #### Vue.js Flashcard Generator
+• Deployed flashcard generator to deliver spaced repetition learning solution with XML/JSON input
+• Integrated Google Firebase for hosting apps and user authentication
 #### Vue.js Personal Portfolio
+• Launched live personal site by self-learning front-end framework Vue.js with responsive web design
+• Performed SEO to display site in top Google Search Results with Firebase console analytics
 #### Mogi Quote Dispenser
+Follow the Mogi way to enlightenment. Mogi Quotes are essential bits of wisdom in this modern era. Simple JS project to dispense inspiration. To many, the origins of Mogi still remain a mystery.
 
 ### Data Science
 #### Resume Skill Extractor
+Recommended jobs to neurodiverse candidates, comparing resume skill profile to job skill profile. Matched 2000 resumes to job descriptions pulled from data dictionary with GraphQL API calls in Python.
+
 #### Fruit Quality Scanner
+Marked the fresh fruit inside grocery fruit crate images with React Native camera app with 85.1% average accuracy.
+
 #### Brain Tumor Detector
-#### MNIST Character Recognition
+• Identified brain tumors in CT scans by training algorithm on 500 CT scans with and without tumors
+• Evaluated varying performance of CNN, KNN, and RNN architectures in tumor detection
+• Discovered KNN performed best with 84.1% true positive & 72.7% of true negative accuracy
+• Preprocessed data input by standardizing CT scan sizes and removing color in Matplotlib
+
 <!--Machine Learning Projects-->
