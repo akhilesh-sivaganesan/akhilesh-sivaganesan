@@ -33,5 +33,14 @@ Worked on job matching algorithm on neurodiverse hiring platform. Used Python, G
 
 ### Web Development
 <!--Web Development Projects-->
+#### Voltaic Industries
+#### Vue.js Flashcard Generator
+#### Vue.js Personal Portfolio
+#### Mogi Quote Dispenser
+
 ### Data Science
+#### Resume Skill Extractor
+#### Fruit Quality Scanner
+#### Brain Tumor Detector
+#### MNIST Character Recognition
 <!--Machine Learning Projects-->
