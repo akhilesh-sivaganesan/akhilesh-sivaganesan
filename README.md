@@ -32,28 +32,26 @@ Cloud & Terminal:
 # Projects
 My projects focus on web development and data science.
 <!--Web Development Projects-->
-### Voltaic Industries
+### Voltaic Industries [DEMO](https://voltaic-industries.webflow.io/design-brief/home)
 • Built website for mock company selling electric vehicles like Tesla with Webflow and JavaScript
 • Generated webpages dynamically populated by database entries for each vehicle
 • Applied responsive web design to create futuristic, animated site for smartphones and tablets
-• Invented futuristic brand identity with sleek typography and stylized logo in AutoCAD and Blender
-• Integrated common visual design cues to lead users to key actions and ease user experience
-### Vue.js Flashcard Generator
+### Vue.js Flashcard Generator [DEMO] (https://flashcardgen100.web.app/)
 • Deployed flashcard generator to deliver spaced repetition learning solution with XML/JSON input
 • Integrated Google Firebase for hosting apps and user authentication
-### Vue.js Personal Portfolio
+### Vue.js Personal Portfolio [DEMO] (https://www.akhilesh.dev)
 • Launched live personal site by self-learning front-end framework Vue.js with responsive web design
 • Performed SEO to display site in top Google Search Results with Firebase console analytics
-### Mogi Quote Dispenser
+### Mogi Quote Dispenser [DEMO] (https://akhilesh-sivaganesan.github.io/)
 Follow the Mogi way to enlightenment. Mogi Quotes are essential bits of wisdom in this modern era. Simple JS project to dispense inspiration. To many, the origins of Mogi still remain a mystery.
 
-### Resume Skill Extractor
+### Resume Skill Extractor [View Repo](https://github.com/akhilesh-sivaganesan/Resume-Skills-Extraction)
 Recommended jobs to neurodiverse candidates, comparing resume skill profile to job skill profile. Matched 2000 resumes to job descriptions pulled from data dictionary with GraphQL API calls in Python.
 
-### Fruit Quality Scanner
+### Fruit Quality Scanner [DEMO](https://fruit-scanner-123145.web.app/)
 Marked the fresh fruit inside grocery fruit crate images with React Native camera app with 85.1% average accuracy.
 
-### Brain Tumor Detector
+### Brain Tumor Detector [View Repo](https://github.com/akhilesh-sivaganesan/Brain-Tumor-Detection)
 • Identified brain tumors in CT scans by training algorithm on 500 CT scans with and without tumors
 • Evaluated varying performance of CNN, KNN, and RNN architectures in tumor detection
 • Discovered KNN performed best with 84.1% true positive & 72.7% of true negative accuracy
