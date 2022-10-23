@@ -1,5 +1,5 @@
 # Hello, I am Akhilesh
-I love web development and interesting applications of artificial intelligence and data science. Based in Ashburn, Virginia.
+I love web development and interesting applications of artificial intelligence and data science.
 Check [my website](https://www.akhilesh.dev) out
 
 [![Linkedin: akhilesh-s](https://img.shields.io/badge/-Akhilesh%20Sivaganesan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilesh-s/)](https://www.linkedin.com/in/akhilesh-s/)
