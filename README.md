@@ -36,13 +36,13 @@ My projects focus on web development and data science.
 • Built website for mock company selling electric vehicles like Tesla with Webflow and JavaScript
 • Generated webpages dynamically populated by database entries for each vehicle
 • Applied responsive web design to create futuristic, animated site for smartphones and tablets
-### Vue.js Flashcard Generator [DEMO] (https://flashcardgen100.web.app/)
+### Vue.js Flashcard Generator [DEMO](https://flashcardgen100.web.app/)
 • Deployed flashcard generator to deliver spaced repetition learning solution with XML/JSON input
 • Integrated Google Firebase for hosting apps and user authentication
-### Vue.js Personal Portfolio [DEMO] (https://www.akhilesh.dev)
+### Vue.js Personal Portfolio [DEMO](https://www.akhilesh.dev)
 • Launched live personal site by self-learning front-end framework Vue.js with responsive web design
 • Performed SEO to display site in top Google Search Results with Firebase console analytics
-### Mogi Quote Dispenser [DEMO] (https://akhilesh-sivaganesan.github.io/)
+### Mogi Quote Dispenser [DEMO](https://akhilesh-sivaganesan.github.io/)
 Follow the Mogi way to enlightenment. Mogi Quotes are essential bits of wisdom in this modern era. Simple JS project to dispense inspiration. To many, the origins of Mogi still remain a mystery.
 
 ### Resume Skill Extractor [View Repo](https://github.com/akhilesh-sivaganesan/Resume-Skills-Extraction)
