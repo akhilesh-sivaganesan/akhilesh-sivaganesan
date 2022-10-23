@@ -15,7 +15,9 @@ Coursework: Data Structures & Algorithms, Object-Oriented Programming, Linear Al
 
 ### Python
 • TensorFlow + Scikit-learn (Machine Learning)
+
 • OpenCV + Matplotlib (Computer Vision)
+
 • Pandas + NumPy (Data Science)
 
 ### Java
